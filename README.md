@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chaitanysai
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on the Development
 - 📫 How to reach me ...
 
 <!---
