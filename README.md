@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chaitanyasai
-- 👀 I’m interested in web_development, Data science
-- 🌱 I’m currently learning python_SQL_java
-- 💞️ I’m looking to collaborate on the Development of Web
+- 👀 I’m into Data Science
+- 🌱 I’m currently on SQL
 - 📫 How to reach me ... chaitanyasaikandula@gmail.com
 
 <!---
